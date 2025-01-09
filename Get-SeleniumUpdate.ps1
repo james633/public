@@ -17,6 +17,9 @@ IMPORTANT!      The script will default to downloading a version based on detect
 ----------------------------------------------------------------------------
 2023-12-15
 Fixed failure from missing chromedriver.exe by using WebDriver.dll as the locator file for the module.
+---------------------
+
+Credits: Get-ProcessOutput function is adapted from the PS modile MilestonePSTools by JHendricks.
 
 #>
 
